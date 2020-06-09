@@ -3,7 +3,6 @@ fibonacci-series
 
 Fibonacci series implementation for nodejs.
 
-
 Usage
 -----
 
@@ -29,3 +28,6 @@ Author
 ------
 
 @MasterIsuru
+=======
+# fibonacci-series
+Get fibonacci series for given input.
