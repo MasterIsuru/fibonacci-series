@@ -1,0 +1,14 @@
+{
+  "name": "fibonacci-series",
+  "version": "1.0.0",
+  "description": "Get fibonacci series for given input",
+  "main": "src/index.js",
+  "author": "MasterIsuru",
+  "keywords": [
+    "fibonacci",
+    "fibonacci-series",
+    "mathematics",
+    "node"
+  ],
+  "license": "MIT"
+}
