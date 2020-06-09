@@ -8,7 +8,7 @@ Usage
 
 ```js
 const fibonacci = require ('fibonacci-series');
-const numberArray = fibonacci.(5);
+const numberArray = fibonacci(5);
 console.log (numberArray);
 ```
 
